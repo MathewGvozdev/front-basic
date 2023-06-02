@@ -1,0 +1,50 @@
+.main_container h2 {
+    text-align: center;
+    color: firebrick;
+}
+
+.main_container a {
+    color: red;
+}
+
+
+.main_container p {
+    font-size: 16px;
+}
+
+.main_container img {
+    width: 200px;
+}
+
+.hobby {
+    border: 2px solid blue;
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px;
+}
+
+.work {
+    border: 2px solid green;
+    background-color: lightgreen;
+    padding: 20px;
+    margin: 10px;
+}
+
+.friends {
+    border: 2px solid darkmagenta;
+    background-color: magenta;
+    padding: 20px;
+    margin: 10px;
+}
+
+.links {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.links img {
+    width: 20px;
+    padding: 2px;
+}
